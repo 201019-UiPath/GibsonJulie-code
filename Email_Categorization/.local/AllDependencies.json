@@ -2887,9 +2887,9 @@
     "restore": {
       "projectUniqueName": "FaceRecognition",
       "projectName": "FaceRecognition",
-      "projectPath": "C:\\Users\\jagib\\Documents\\Revature\\GibsonJulie-Project2\\Email_Categorization\\.local",
+      "projectPath": "C:\\Users\\jagib\\OneDrive\\Desktop\\GibsonJulie-code\\Email_Categorization\\.local",
       "packagesPath": "C:\\Users\\jagib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jagib\\Documents\\Revature\\GibsonJulie-Project2\\Email_Categorization\\.local"
+      "outputPath": "C:\\Users\\jagib\\OneDrive\\Desktop\\GibsonJulie-code\\Email_Categorization\\.local"
     },
     "frameworks": {
       "net461": {

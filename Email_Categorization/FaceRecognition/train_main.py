@@ -6,7 +6,8 @@ import sys
 from classifier import training
 
 def startTraining(cwd):
-    os.chdir(cwd + '/FaceRecognition/')
+    #os.chdir(cwd + '/FaceRecognition/')
+    os.chdir(cwd)
     if not hasattr(sys, 'argv'):
         sys.argv  = ['']
     sys.path.append('.')

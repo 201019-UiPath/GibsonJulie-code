@@ -27,10 +27,10 @@
       },
       "Assemblies": [
         "C:\\Users\\jagib\\.nuget\\packages\\bouncycastle/1.8.5\\lib/BouncyCastle.Crypto.dll",
-        "C:\\Users\\jagib\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
         "C:\\Users\\jagib\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
-        "C:\\Users\\jagib\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\jagib\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
         "C:\\Users\\jagib\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\jagib\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
         "C:\\Users\\jagib\\.nuget\\packages\\google.apis.calendar.v3/1.43.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
         "C:\\Users\\jagib\\.nuget\\packages\\google.apis.core/1.43.0\\lib/net45/Google.Apis.Core.dll",
         "C:\\Users\\jagib\\.nuget\\packages\\google.apis.docs.v1/1.43.0.1869\\lib/net45/Google.Apis.Docs.v1.dll",
